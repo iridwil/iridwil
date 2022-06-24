@@ -8,9 +8,10 @@
     <img src="https://img.shields.io/badge/HeadHunter-brightgreen?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
   </a>
 </div>
-
+<br>
+<div>
 <img src="https://komarev.com/ghpvc/?username=iridwil&color=brightgreen" alt="">
-
+</div>
 
 <!--
 **iridwil/iridwil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
