@@ -1,4 +1,4 @@
-<p>Hello! I'm a PHP develover and now I’m learning Laravel.</p>
+<p>Hello! I'm a PHP develover and currently I’m learning Laravel.</p>
 
 <div id="badges">
   <a href="">
