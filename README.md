@@ -1,7 +1,7 @@
 <p>Hello! I'm a PHP develover and currently I’m learning Laravel.</p>
 
 <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/магомед-рамазанов-48a889110">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
