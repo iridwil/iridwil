@@ -1,3 +1,5 @@
+<p>Hello! I'm a PHP develover and now I’m learning Laravel.</p>
+
 <div id="badges">
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
