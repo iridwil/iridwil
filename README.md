@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/магомед-рамазанов-48a889110">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://hh.ru/resume/b16dc4b5ff05ad49370039ed1f41794d695379">
     <img src="https://img.shields.io/badge/HeadHunter-brightgreen?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
   </a>
 </div>
